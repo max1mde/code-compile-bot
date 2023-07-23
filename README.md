@@ -1,6 +1,6 @@
 <p align="center">
 <a href=""><img src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" alt="React"></a>
-<a href=""><img src="https://img.shields.io/badge/nodejs-20232A?style=for-the-badge&logo=nodejs&logoColor=61DAFB" alt="bStats"></a>
+<a href=""><img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=61DAFB" alt="bStats"></a>
 </p>
 
 # Java compiler bot
