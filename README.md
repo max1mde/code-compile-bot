@@ -30,5 +30,12 @@ Use the following commands to install all libraries and start the bot:
 - `tsc` (Converts all typescript files into javascript files and copies them into the /build folder)
 - `node build/src/index.js` (Starts the bot)
 
+# Whitelist users
+`src/config.json`
+{
+	"allowedUsers": [USER_ID, USER_ID....]
+}
+You can get the user id by right clicking on a user and selecting ([(Developer mode must be enabled)](https://beebom.com/how-enable-disable-developer-mode-discord/)
+
 **Warning!**<br>
 _It is possible that a user can bypass any filters and permissions to execute malicious code._
