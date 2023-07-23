@@ -4,7 +4,7 @@
 </p>
 
 # Java compiler bot
-A bot which can compile and excecute java code.
+A bot which can compile and execute java code.
 The output will be displays as a message.
 
 ![image](https://github.com/MaximFiedler/code-compile-bot/assets/114857048/f19fddb5-d1c8-403a-b607-f3b272b3ecbe)
