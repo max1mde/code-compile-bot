@@ -25,7 +25,7 @@ Add a `token.json` file
 }
 ```
 Use the following commands to install all libraries and start the bot:
-- `npm install` (installs all libraries)
+- `npm install` (Installs all libraries)
 - `tsc` (Converts all typescript files into javascript files and copies them into the /build folder)
 - `node build/src/index.js` (Starts the bot)
 
