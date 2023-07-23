@@ -30,3 +30,5 @@ Use the following commands to install all libraries and start the bot:
 - `tsc` (Converts all typescript files into javascript files and copies them into the /build folder)
 - `node build/src/index.js` (Starts the bot)
 
+Warning!
+It is possible that a user can bypass any filters and permissions to excecute malicious code. 
