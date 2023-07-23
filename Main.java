@@ -4,6 +4,16 @@ import java.util.*;
 import java.awt.*;
 public class Main {
 	public static void main(String[] args) {
-  for(int i = 0; i < 10; i++) System.out.print("🟥");
-}
+		try {
+      File myObj = new File("filename.txt");
+      if (myObj.createNewFile()) {
+        System.out.println("File created: " + myObj.getName());
+      } else {
+        System.out.println("File already exists.");
+      }
+    } catch (IOException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+    }
+	}
 }
