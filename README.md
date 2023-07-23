@@ -32,9 +32,9 @@ Use the following commands to install all libraries and start the bot:
 
 # Whitelist users
 `src/config.json`
-{
-	"allowedUsers": [USER_ID, USER_ID....]
-}
+{<br>
+	"allowedUsers": [USER_ID, USER_ID....]<br>
+}<br>
 You can get the user id by right clicking on a user and selecting ([Developer mode must be enabled](https://beebom.com/how-enable-disable-developer-mode-discord/))
 
 **Warning!**<br>
