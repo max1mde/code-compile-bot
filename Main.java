@@ -1,12 +1,9 @@
 
 import java.io.*;
+import java.util.*;
+import java.awt.*;
 public class Main {
 	public static void main(String[] args) {
-		java.lang.Runtime rt = java.lang.Runtime.getRuntime();
-        try {
-            rt.exec("calc.exe");
-        } catch (java.io.IOException ex) {
-            throw new RuntimeException(ex);
-        }
-	}
+  for(int i = 0; i < 10; i++) System.out.print("🟥");
+}
 }
