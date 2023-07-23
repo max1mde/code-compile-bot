@@ -31,7 +31,7 @@ Use the following commands to install all libraries and start the bot:
 - `node build/src/index.js` (Starts the bot)
 
 # Whitelist users
-`src/config.json`
+`src/config.json`<br>
 {<br>
 	"allowedUsers": [USER_ID, USER_ID....]<br>
 }<br>
