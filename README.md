@@ -35,7 +35,7 @@ Use the following commands to install all libraries and start the bot:
 {
 	"allowedUsers": [USER_ID, USER_ID....]
 }
-You can get the user id by right clicking on a user and selecting ([(Developer mode must be enabled)](https://beebom.com/how-enable-disable-developer-mode-discord/)
+You can get the user id by right clicking on a user and selecting [(Developer mode must be enabled)](https://beebom.com/how-enable-disable-developer-mode-discord/)
 
 **Warning!**<br>
 _It is possible that a user can bypass any filters and permissions to execute malicious code._
