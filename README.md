@@ -14,7 +14,7 @@ The output will be displays as a message.
 	- Shows how to use the bot
 
 # Dependencies
-- npm
+- NPM
 - Node.js
 - Java
 
