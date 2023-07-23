@@ -31,4 +31,4 @@ Use the following commands to install all libraries and start the bot:
 - `node build/src/index.js` (Starts the bot)
 
 **Warning!**<br>
-_It is possible that a user can bypass any filters and permissions to excecute malicious code._
+_It is possible that a user can bypass any filters and permissions to execute malicious code._
