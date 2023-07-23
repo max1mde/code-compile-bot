@@ -8,3 +8,25 @@ A bot wich can compile and excecute java code.
 The output will be displays as a message.
 
 ![image](https://github.com/MaximFiedler/code-compile-bot/assets/114857048/8d622e66-a909-4b90-b535-4001369a751d)
+
+# Command
+- /tutorial
+	- Shows how to use the bot
+
+# Dependencies
+- npm
+- Node.js
+- Java
+
+# Installation
+Add a `token.json` file
+```json
+{
+	"token": "YOUR_BOT_TOKEN"
+}
+```
+Run the following commands:
+- `npm install`
+- `tsc`
+- `node build/src/index.js`
+
