@@ -15,7 +15,7 @@ The output will be displays as a message.
 
 # Dependencies
 - [Node.js](https://nodejs.org/en/download)
-- [Java](www.java.com/en/download/) / [Java JDK](https://www.oracle.com/java/technologies/downloads/)
+- [Java](https://www.java.com/en/download/) / [Java JDK](https://www.oracle.com/java/technologies/downloads/)
 
 # Installation
 Add a `token.json` file
