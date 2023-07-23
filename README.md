@@ -7,7 +7,8 @@
 A bot which can compile and excecute java code.
 The output will be displays as a message.
 
-![image](https://github.com/MaximFiedler/code-compile-bot/assets/114857048/8d622e66-a909-4b90-b535-4001369a751d)
+![image](https://github.com/MaximFiedler/code-compile-bot/assets/114857048/f19fddb5-d1c8-403a-b607-f3b272b3ecbe)
+
 
 # Command
 - /tutorial
