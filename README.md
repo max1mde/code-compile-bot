@@ -2,16 +2,25 @@
 <a href=""><img src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" alt="React"></a>
 <a href=""><img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=61DAFB" alt="bStats"></a>
 </p>
+<div align="center">
+<h1>Java compiler bot</h1>
+<p></p>A bot which can compile and execute java code.
+The output will be displayd as a message.</p>
+</div>
 
-# Java compiler bot
-A bot which can compile and execute java code.
-The output will be displayd as a message.
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/warning.svg">
+>   <img alt="Warning" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/warning.svg">
+> </picture><br>
+>
+> It is possible that a user can bypass any filters and permissions to execute malicious code.
+
+> **Note**  
+> It is possible that a user can bypass any filters and permissions to execute malicious code.
 
 ![image](https://github.com/MaximFiedler/code-compile-bot/assets/114857048/65c98f4c-b8d3-4019-9374-a9ea081937cc)
 
-
-
-# Command
+# Commands
 - /tutorial
 	- Shows how to use the bot
 
