@@ -8,7 +8,7 @@
 The output will be displayd as a message.</p>
 </div>
 
-> **Warning**  
+> [!CAUTION]
 > It is possible that a user can bypass any filters and permissions to execute malicious code.
 
 ![image](https://github.com/MaximFiedler/code-compile-bot/assets/114857048/65c98f4c-b8d3-4019-9374-a9ea081937cc)
